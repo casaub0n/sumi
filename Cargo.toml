@@ -1,0 +1,6 @@
+[package]
+name = "sumi"
+version = "0.1.0"
+authors = ["Casaubon <netzach.yoshida@gmail.com>"]
+
+[dependencies]
